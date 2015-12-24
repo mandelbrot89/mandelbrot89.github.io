@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: test3 | My Octopress Blog]]></title>
+  <title><![CDATA[Category: test3 | xin的所思所想]]></title>
   <link href="http://mandelbrot89.github.io/blog/categories/test3/atom.xml" rel="self"/>
   <link href="http://mandelbrot89.github.io/"/>
-  <updated>2015-12-24T10:28:30+08:00</updated>
+  <updated>2015-12-24T10:41:50+08:00</updated>
   <id>http://mandelbrot89.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mandelbrot89]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -21,6 +21,15 @@
     <content type="html"><![CDATA[<h1>这是我的标题</h1>
 
 <p>这是文章内容</p>
+
+<pre><code class="cpp">#include&lt;stdio.h&gt;
+int main()
+{
+    int a;
+    int b;
+    return 0;
+}
+</code></pre>
 ]]></content>
   </entry>
   
