@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Test2 | My Octopress Blog]]></title>
+  <title><![CDATA[Category: test2 | My Octopress Blog]]></title>
   <link href="http://mandelbrot89.github.io/blog/categories/test2/atom.xml" rel="self"/>
   <link href="http://mandelbrot89.github.io/"/>
-  <updated>2015-12-23T23:50:32+08:00</updated>
+  <updated>2015-12-24T10:28:30+08:00</updated>
   <id>http://mandelbrot89.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
+    <title type="html"><![CDATA[hello world]]></title>
     <link href="http://mandelbrot89.github.io/blog/2015/12/23/hello-world/"/>
     <updated>2015-12-23T16:20:45+08:00</updated>
     <id>http://mandelbrot89.github.io/blog/2015/12/23/hello-world</id>
