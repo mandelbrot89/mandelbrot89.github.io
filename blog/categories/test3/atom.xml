@@ -4,7 +4,7 @@
   <title><![CDATA[Category: test3 | xin的所思所想]]></title>
   <link href="http://mandelbrot89.github.io/blog/categories/test3/atom.xml" rel="self"/>
   <link href="http://mandelbrot89.github.io/"/>
-  <updated>2015-12-24T15:12:30+08:00</updated>
+  <updated>2015-12-24T15:44:12+08:00</updated>
   <id>http://mandelbrot89.github.io/</id>
   <author>
     <name><![CDATA[Mandelbrot89]]></name>
@@ -30,6 +30,8 @@ int main()
     return 0;
 }
 </code></pre>
+
+<p><a href="../images/avatar.jpeg">myPic icon</a></p>
 ]]></content>
   </entry>
   
